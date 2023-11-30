@@ -1,0 +1,73 @@
+
+p {
+   color: black;
+}
+
+.trucsunpeuplusgros {
+   font-size: 20px;
+   color: darkblue;
+}
+
+.fontstylenormal {
+   font-style: normal;
+   color: black;
+}
+
+
+.fontstyleoblique {
+   font-style: oblique;
+   color: black;
+}
+
+.fontweightnormal {
+   font-style: normal;
+   font-weight: normal;
+   color: black;
+}
+
+.fontweightbold {
+   font-style: normal;
+   font-weight: bold;
+   color: black;
+}
+
+.fontweightbolder {
+   font-style: normal;
+   font-weight: bolder;
+   color: black;
+}
+
+.fontweightinherit {
+   font-style:normal;
+   font-weight:inherit;
+   color:black;
+}
+
+
+.lineheight30px {
+   font-style:normal;
+   font-weight:normal;
+   color:black;
+   line-height:30px;
+}
+
+
+.fontfamilytahoma {
+   font-family:Tahoma;
+}
+
+.opacity05 {
+   opacity:0.5;
+}
+
+.underline {
+   text-decoration: underline;
+}
+
+.colorred {
+   color:red;
+}
+
+.backgroundcolorred {
+   background-color: red;
+}
